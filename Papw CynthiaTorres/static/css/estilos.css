@@ -1,0 +1,31 @@
+.Fondo{
+background-image: url('static/images/Fondo01.png');
+}
+
+.imgcontainer {
+    text-align: center;
+    align-items: center;
+    margin: 1px 0 1px 0;
+}
+
+.textoTitulo{
+font-size: 50px; 
+color:#2F4F4F;
+}
+
+.mainRegistroR{
+background:#C0C0C0;
+}
+
+.mainRegistroL{
+background:#C0C0C0;
+}
+
+[class*=a-icon-star]>.a-icon-alt {
+    left: auto;
+    width: 100%;
+    height: 100%;
+    font-size: inherit;
+    line-height: normal;
+    opacity: 0;
+}
